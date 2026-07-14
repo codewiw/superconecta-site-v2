@@ -33,7 +33,7 @@ export function Navbar() {
 
         <div className="hidden md:flex items-center gap-4">
           <a
-            href="https://superconecta.sgp.tsmx.com.br/central"
+            href="https://app.superconecta.com.br/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-sm font-medium text-[#001A72] hover:text-[#0055FF] smooth-transition"
@@ -70,7 +70,7 @@ export function Navbar() {
             <a href="#beneficios" onClick={() => setIsMobileMenuOpen(false)} className="text-[#001A72] font-medium hover:text-[#0055FF]">Tecnologia</a>
             <a href="#planos" onClick={() => setIsMobileMenuOpen(false)} className="text-[#001A72] font-medium hover:text-[#0055FF]">Planos</a>
             <div className="h-px w-full bg-[#001A72]/10 my-2" />
-            <a href="https://superconecta.sgp.tsmx.com.br/central" target="_blank" className="text-[#001A72] font-medium hover:text-[#0055FF] flex items-center gap-2">
+            <a href="https://app.superconecta.com.br/" target="_blank" className="text-[#001A72] font-medium hover:text-[#0055FF] flex items-center gap-2">
               <User size={18} /> Área do Cliente
             </a>
             <a href="#planos" onClick={() => setIsMobileMenuOpen(false)} className="text-center mt-2 px-4 py-3 rounded-[32px] bg-[#0055FF] text-white font-extrabold shadow-lg">

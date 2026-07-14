@@ -26,7 +26,7 @@ export function Footer() {
               <li><a href="#inicio" className="text-[#F4F7FF]/70 hover:text-white smooth-transition">Início</a></li>
               <li><a href="#beneficios" className="text-[#F4F7FF]/70 hover:text-white smooth-transition">Tecnologia</a></li>
               <li><a href="#planos" className="text-[#F4F7FF]/70 hover:text-white smooth-transition">Planos</a></li>
-              <li><a href="https://superconecta.sgp.tsmx.com.br/central" target="_blank" rel="noreferrer" className="text-[#F4F7FF]/70 hover:text-white smooth-transition">Área do Cliente</a></li>
+              <li><a href="https://app.superconecta.com.br/" target="_blank" rel="noreferrer" className="text-[#F4F7FF]/70 hover:text-white smooth-transition">Área do Cliente</a></li>
             </ul>
           </div>
 
